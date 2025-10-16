@@ -61,7 +61,7 @@ header {
 .nav-links a.active {
     background: #fff;
     color: #01030E;
-    padding: 8px;
+    padding: 5px 8px;
     border-radius: 20px;
     width: 70%;
     text-align: center;
@@ -70,7 +70,7 @@ header {
 .nav-links a:hover {
     color: #01030E;
     background-color: #fff;
-    padding: 8px;
+    padding: 5px 8px;
     border-radius: 20px;
     width: 70%;
     text-align: center;
